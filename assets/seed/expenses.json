@@ -1,0 +1,9 @@
+[
+  {"id": "seed-1", "concept": "Supermercado", "amount_cents": 85050, "category": "alimentacion", "date": "2026-11-21"},
+  {"id": "seed-2", "concept": "Cine", "amount_cents": 24000, "category": "entretenimiento", "date": "2026-11-21"},
+  {"id": "seed-3", "concept": "Gasolina", "amount_cents": 60000, "category": "transporte", "date": "2026-11-20"},
+  {"id": "seed-4", "concept": "Taxi", "amount_cents": 18500, "category": "transporte", "date": "2026-11-20"},
+  {"id": "seed-5", "concept": "Recibo de luz", "amount_cents": 42000, "category": "servicios", "date": "2026-11-15"},
+  {"id": "seed-6", "concept": "Zapatos", "amount_cents": 129900, "category": "compras", "date": "2026-11-15"},
+  {"id": "seed-7", "concept": "Regalo", "amount_cents": 15000, "category": "otros", "date": "2026-11-10"}
+]
