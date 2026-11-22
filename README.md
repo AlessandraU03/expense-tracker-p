@@ -9,8 +9,7 @@ flutter pub get
 flutter run
 ```
 
-Necesita Flutter estable reciente y un emulador o teléfono. Los datos de ejemplo se cargan solo la primera vez que se abre la app; para verlos de nuevo hay que borrar los datos de la app o reinstalarla.
-
+Necesita Flutter estable reciente y un emulador o teléfono. Los datos de ejemplo se cargan solo la primera vez que se abre la app.
 ## Dependencias
 
 | Paquete | Para qué lo uso |
